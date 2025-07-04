@@ -1,0 +1,7 @@
+C:\parsu\TestAPP\TestAPP\obj\Release\net8.0\PubTmp\Out\TestAPP.exe
+C:\parsu\TestAPP\TestAPP\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\parsu\TestAPP\TestAPP\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\parsu\TestAPP\TestAPP\obj\Release\net8.0\PubTmp\Out\TestAPP.dll
+C:\parsu\TestAPP\TestAPP\obj\Release\net8.0\PubTmp\Out\TestAPP.deps.json
+C:\parsu\TestAPP\TestAPP\obj\Release\net8.0\PubTmp\Out\TestAPP.runtimeconfig.json
+C:\parsu\TestAPP\TestAPP\obj\Release\net8.0\PubTmp\Out\TestAPP.pdb

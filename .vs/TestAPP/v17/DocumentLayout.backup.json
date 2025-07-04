@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TestAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA892CC2-C98A-427A-8A86-58C2482A27D2}|TestAPP\\TestAPP.csproj|c:\\testapp\\testapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA892CC2-C98A-427A-8A86-58C2482A27D2}|TestAPP\\TestAPP.csproj|solutionrelative:testapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TestAPP\\TestAPP\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestAPP\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\TestAPP\\TestAPP\\Pages\\Index.cshtml",
+              "RelativeToolTip": "TestAPP\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T02:06:07.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
